@@ -1,3 +1,5 @@
 # Make NAT with NFTABLES
 
-(topology)[]
+## Topology
+
+![topology](/pictures/topology.png)
